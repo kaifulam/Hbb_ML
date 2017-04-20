@@ -1,4 +1,1 @@
-# Hbb_ML
-
-Test-ML_Hbb_rev2.py cuts signal and background h5 files.
-Test-ML_Hbb_rev2_local.py runs Keras and plots model accuracy and model loss.
+Parse Hbb dataset
